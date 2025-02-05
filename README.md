@@ -6,6 +6,7 @@
 - 🎓 I’m a student at Epitech Mulhouse.
 - 🌱 I’m currently learning new programming languages and DevOps.
 - 😄 Pronouns: He/Him
+- 💡 I am open to learning while contributing to open source projects.
   
 ## Skills
  
@@ -27,8 +28,8 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  
-## Projects
-[View my starred projects](https://github.com/Boz0o0?tab=stars)
+<!-- ## Projects
+[View my starred projects](https://github.com/Boz0o0?tab=stars) -->
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/enzo-laugel/)
