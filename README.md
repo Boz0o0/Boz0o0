@@ -1,4 +1,4 @@
-# Hi there, I'm Enzo LAUGEL! 👋
+# Hi there, I'm Enzo ! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Boz0o0&color=green)
 
@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boz0o0&layout=compact&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boz0o0&layout=compact&theme=radical)
  
 ### Game Development
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
