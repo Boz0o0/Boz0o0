@@ -5,7 +5,7 @@
 
 ## About Me
 
-- 🎓 2nd-year student at **EPITECH Mulhouse** (2024 – 2027)
+- 🎓 2nd-year student at **EPITECH Mulhouse** (2024 – 2029)
 - 💻 Passionate about software development — I love that moment when the thing I built finally works
 - 🏎️ F1 fan and narrative game enjoyer (TLOU, Resident Evil)
 - 🌐 Portfolio → **[enzo-laugel.me](https://enzo-laugel.me)**
