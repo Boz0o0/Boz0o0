@@ -5,7 +5,7 @@
 
 ## About Me
 
-- 🎓 2nd-year student at **EPITECH Mulhouse** (2024 – 2029)
+- 🎓 3rd-year student at **EPITECH Mulhouse** (2024 – 2029)
 - 💻 Passionate about software development — I love that moment when the thing I built finally works
 - 🏎️ F1 fan and narrative game enjoyer (TLOU, Resident Evil)
 - 🌐 Portfolio → **[enzo-laugel.me](https://enzo-laugel.me)**
@@ -18,6 +18,7 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Web & Frontend
